@@ -19,5 +19,7 @@
     "url": "https://github.com/cboensch6505/teamProfileGenerator/issues"
   },
   "homepage": "https://github.com/cboensch6505/teamProfileGenerator#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
 }
