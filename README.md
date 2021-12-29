@@ -20,13 +20,13 @@
   
   ## [Video Demo](#video-demo)
   
-  ![Full Video Demo](/assets/images/videoDemo.mp4)
+  ![Full Video Demo](/assets/image/videoDemo.mp4)
   
   ## [Description](#table-of-contents)
 
   This project is designed to create a profile page in html that will display everyone on the dev team and their basic information. This will make it easy to locate information regarding the team membersand their github accounts.
   
-  ![Capture of Generated HTML](/assets/images/Capture.PNG)
+  ![Capture of Generated HTML](/assets/image/Capture.PNG)
 
   ## [Installation](#table-of-contents)
 
