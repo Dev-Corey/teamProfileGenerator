@@ -39,9 +39,9 @@
   
   ## [Video Demo](#video-demo)
   
-  https://user-images.githubusercontent.com/87203701/147710523-49da633e-c404-4f06-8faf-810e15be3038.mp4 
-  
-  Full Demo on Google Drive: https://drive.google.com/file/d/1dgBfyThOnFz3dUM3j2X32WCop8mD3rwB/view
+  https://user-images.githubusercontent.com/87203701/147711924-4991db0b-6732-446c-8aeb-08f987f6b79b.mp4
+
+  Full Demo on Google Drive: https://drive.google.com/file/d/17dN6nbr03y_w0z3myFbtyMXL4eOAPZgf/view
  
  ## [Description](#table-of-contents)
 
